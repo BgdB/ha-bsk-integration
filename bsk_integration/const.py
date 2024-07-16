@@ -1,0 +1,1 @@
+DOMAIN = "bsk_integration"

@@ -1,0 +1,9 @@
+{
+  "domain": "my_integration",
+  "name": "My Integration",
+  "version": "0.1.0",
+  "documentation": "https://github.com/yourusername/my_integration",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@yourusername"]
+}
