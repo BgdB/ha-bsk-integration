@@ -1,9 +1,9 @@
 {
-  "domain": "my_integration",
-  "name": "My Integration",
+  "domain": "bsk_integration",
+  "name": "BSK Integration",
   "version": "0.1.0",
-  "documentation": "https://github.com/yourusername/my_integration",
+  "documentation": "https://github.com/BgdB/ha-bsk-integration",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@yourusername"]
+  "codeowners": ["@BgdB"]
 }
