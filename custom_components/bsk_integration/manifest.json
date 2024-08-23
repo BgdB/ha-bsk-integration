@@ -1,9 +1,0 @@
-{
-  "domain": "bsk_integration",
-  "name": "BSK Integration",
-  "version": "0.1.0",
-  "documentation": "https://github.com/BgdB/ha-bsk-integration",
-  "requirements": [],
-  "dependencies": [],
-  "codeowners": ["@BgdB"]
-}

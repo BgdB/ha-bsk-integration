@@ -1,0 +1,18 @@
+{
+  "domain": "bskintegration",
+  "name": "bsk-fan-integration",
+  "codeowners": [
+    "@BgdB"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "application_credentials"
+  ],
+  "documentation": "https://www.home-assistant.io/integrations/bskintegration",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "platforms": ["fan", "sensor"]
+}
